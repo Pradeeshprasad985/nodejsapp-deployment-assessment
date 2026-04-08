@@ -14,15 +14,9 @@ This project demonstrates a **production-ready DevOps setup** for a Node.js appl
 ---
 
 ## 🧱 Architecture
+<img src="https://github.com/Pradeeshprasad985/nodejsapp-deployment-assessment/blob/main/docs/diagram.png" alt="Banner" />
 
-```
-User → ALB → ECS (Fargate) → Node.js App
-             ↓
-         CloudWatch Logs
 
-CI/CD → GitHub Actions → ECR → ECS
-Terraform → AWS Infrastructure
-```
 
 ---
 
