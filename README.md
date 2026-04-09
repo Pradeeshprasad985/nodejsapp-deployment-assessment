@@ -221,8 +221,8 @@ http://<load-balancer-dns>
 
 ## 👤 Author
 
-* Name: Your Name
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Name: Pradeesh prasad
+* Email: pradeesh985@gmail.com
 
 ---
 
